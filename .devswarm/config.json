@@ -1,5 +1,3 @@
 {
-  "portVars": [
-    "API_PORT"
-  ]
+  "portVars": ["API_PORT"]
 }
